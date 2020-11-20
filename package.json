@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoozero2/goorm-nodejs.git"
+  },
+  "author": "asqw2323",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoozero2/goorm-nodejs/issues"
+  },
+  "homepage": "https://github.com/zoozero2/goorm-nodejs#readme"
+}
