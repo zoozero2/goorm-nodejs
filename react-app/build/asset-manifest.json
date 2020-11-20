@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zoozero2/goorm-nodejsstatic/css/main.8c8b27cf.chunk.css",
+    "main.js": "/zoozero2/goorm-nodejsstatic/js/main.9a1f9c82.chunk.js",
+    "main.js.map": "/zoozero2/goorm-nodejsstatic/js/main.9a1f9c82.chunk.js.map",
+    "runtime-main.js": "/zoozero2/goorm-nodejsstatic/js/runtime-main.311801dd.js",
+    "runtime-main.js.map": "/zoozero2/goorm-nodejsstatic/js/runtime-main.311801dd.js.map",
+    "static/js/2.2cb1e960.chunk.js": "/zoozero2/goorm-nodejsstatic/js/2.2cb1e960.chunk.js",
+    "static/js/2.2cb1e960.chunk.js.map": "/zoozero2/goorm-nodejsstatic/js/2.2cb1e960.chunk.js.map",
+    "static/js/3.b18fc15e.chunk.js": "/zoozero2/goorm-nodejsstatic/js/3.b18fc15e.chunk.js",
+    "static/js/3.b18fc15e.chunk.js.map": "/zoozero2/goorm-nodejsstatic/js/3.b18fc15e.chunk.js.map",
+    "index.html": "/zoozero2/goorm-nodejsindex.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/zoozero2/goorm-nodejsstatic/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2cb1e960.chunk.js.LICENSE.txt": "/zoozero2/goorm-nodejsstatic/js/2.2cb1e960.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/zoozero2/goorm-nodejsstatic/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.311801dd.js",
+    "static/js/2.2cb1e960.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9a1f9c82.chunk.js"
+  ]
+}
